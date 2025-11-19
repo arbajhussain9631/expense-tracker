@@ -52,7 +52,7 @@ python expense_tracker.py
 
 📸 Screenshots
 
-![Uploading Screenshot 2025-11-19 153441.png…]()
+<img width="1914" height="1139" alt="Screenshot 2025-11-19 153441" src="https://github.com/user-attachments/assets/e35e4b65-a359-4622-bc89-c8f7701ebef4" />
 
 
 📝 Future Improvements (Optional)
